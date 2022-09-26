@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋👋
+
+- 🔭 I’m currently working on Exclusive Factory Mobile Snd.Bhd as Backend Developer
+- 🌱 I’m currently learning flutter
+- 📫 How to reach me: ramddan@icloud.com
 
 <!--
 **arr2504/arr2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
