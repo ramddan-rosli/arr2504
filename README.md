@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Exclusive Factory Mobile Snd.Bhd as Backend Developer
 - 🌱 I’m currently learning flutter
+- ♿ I'm OKU dev (disabled person)
 
 📫  🤝 How to reach me: 
 
