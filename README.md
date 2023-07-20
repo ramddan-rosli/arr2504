@@ -1,6 +1,6 @@
 ### Hello there 👋👋
 
-- 🔭 I’m currently working on Exclusive Factory Mobile Snd.Bhd as Backend Developer
+- 🔭 Former Senior Fullstack Developer
 - 🌱 I’m currently learning flutter
 - ♿ I'm OKU dev (disabled person)
 
@@ -9,7 +9,7 @@
 <p align="left">
 
 <a href="mailto:ramddan@icloud.com"><img src="https://img.shields.io/badge/-ramddan@icloud.com-D14836?style=flat&logo=icloud&logoColor=white"/></a>
-<a href="https://www.instagram.com/zash_45/"><img src="https://img.shields.io/badge/-@ramddanrosli-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/ramddan.reezdan/"><img src="https://img.shields.io/badge/-@ramddanrosli-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/ramddan.reezdan"><img src="https://img.shields.io/badge/-@ramddan.reezdan-0077B5?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
