@@ -1,7 +1,7 @@
 ### Hello there 👋👋
 
 - 🔭 Former Senior Fullstack Developer
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning flutter/react
 - ♿ I'm OKU dev (disabled person)
 
 📫  🤝 How to reach me: 
